@@ -1,0 +1,2 @@
+rootProject.name='rounz-vf-dependency-android'
+include ':app'
