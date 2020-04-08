@@ -2,7 +2,7 @@
 
 buildscript {
     ext.version_code = 1
-    ext.version_name = '0.0.0'
+    ext.version_name = '0.0.1'
 
     /**
      * o2, o2-core 에서 사용하는 의존성 버전과 완전히 일치 해야함.
